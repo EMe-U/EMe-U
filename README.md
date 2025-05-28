@@ -28,6 +28,3 @@ I’m also exploring how technology intersects with sustainability, natural reso
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EMe-U&layout=compact&theme=radical)
 
 ---
-
-🌱 *Always curious. Always learning. Let's build something meaningful together!*
-S
