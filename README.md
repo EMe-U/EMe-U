@@ -28,5 +28,6 @@ I’m also exploring how technology intersects with sustainability, natural reso
 ## 📊 GitHub Stats:
 ![Emerance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EMe-U&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EMe-U&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=EMe-U&theme=radical)
 
 ---
