@@ -1,8 +1,10 @@
-# 👩‍💻 Data Science | Machine Learning | Data Analytics | Software Engineering
+# 👩‍💻 FullStack Development | Data Analytics | Software Engineering
 
 Hi there! 👋 My name is **Emerance Umurerwa**, a passionate software engineering student at the **African Leadership University** in Rwanda.
 
-I specialize in **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**, where I enjoy using data to solve real-world problems and build intelligent systems. My goal is to harness the power of data and algorithms to drive impact in areas like education, agriculture, and community development.
+I specialize in Fullstack Development, where I enjoy building robust and user-friendly applications. My goal is to create seamless user experiences by working on both the front-end and back-end of web applications.
+
+I’m also exploring how technology can be used to address challenges in areas like e-commerce, healthcare, and education. I'm constantly learning and improving, and I love collaborating on projects that deliver innovative solutions. like education, agriculture, and community development.
 
 I’m also exploring how technology intersects with sustainability, natural resource management, and social good. I'm constantly learning and improving, and I love collaborating on meaningful projects that create long-term value.
 
